@@ -32,3 +32,14 @@ the evaluation results will not be the same as in manuscript.
 #### Training
 * Run ```python train.py``` to perform training with the 
 default setting.
+
+Please cite our paper in your publications if our work helps your research.
+
+```
+@article{wang2023wide,
+  title={Wide \& deep learning for spatial \& intensity adaptive image restoration},
+  author={Wang, Yadong and Bai, Xiangzhi},
+  journal={arXiv preprint arXiv:2305.18708},
+  year={2023}
+}
+```
