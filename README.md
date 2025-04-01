@@ -1,8 +1,7 @@
 DparNet: Degradation parameter assisted restoration network
 =============
 ## Description
-This is the implementation of manuscript "Wide & deep learning for 
-spatial & intensity adaptive image restoration". 
+This is the implementation of manuscript "Infrared Image Deturbulence Restoration Using Degradation Parameter-Assisted Wide & Deep Learning". 
 
 ## System requirements
 #### Prerequisites
@@ -36,10 +35,7 @@ default setting.
 Please cite our paper in your publications if our work helps your research.
 
 ```
-@article{wang2023wide,
-  title={Wide \& deep learning for spatial \& intensity adaptive image restoration},
-  author={Wang, Yadong and Bai, Xiangzhi},
-  journal={arXiv preprint arXiv:2305.18708},
-  year={2023}
+@article{Deturbulence,
+  title={Infrared Image Deturbulence Restoration Using Degradation Parameter-Assisted Wide & Deep Learning},
 }
 ```
